@@ -4,6 +4,8 @@ This repo is for the Intro to Rmarkdown lesson.
 
 Libraries used include:
 
+```{r }
+
 library(readr)
 library(gplots)
 library(VennDiagram)
@@ -13,5 +15,8 @@ library(knitr)
 library(ggplot2)
 library(reshape2)
 library(rmarkdown)
+
+```
+
 
 Please grab the .Rmd and .txt files to follow along! 
