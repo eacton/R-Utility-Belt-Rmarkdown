@@ -20,3 +20,12 @@ library(rmarkdown)
 
 
 Please grab the .Rmd and .txt files to follow along! 
+
+
+## Further Resources:
+For markdown: https://gist.github.com/dupuy/1855764
+
+Knitr options: http://yihui.name/knitr/options/
+
+And for more interactive documents: http://ggvis.rstudio.com/cookbook.html and http://shiny.rstudio.com/articles/interactive-docs.html.
+
